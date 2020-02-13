@@ -16,6 +16,8 @@
 		59AE89CF23F52D67007F9D81 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 59AE89CE23F52D67007F9D81 /* main.m */; };
 		59AE89D923F52D67007F9D81 /* YXLTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 59AE89D823F52D67007F9D81 /* YXLTestTests.m */; };
 		59AE89E423F52D67007F9D81 /* YXLTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 59AE89E323F52D67007F9D81 /* YXLTestUITests.m */; };
+		59AE89F323F531E5007F9D81 /* Man.m in Sources */ = {isa = PBXBuildFile; fileRef = 59AE89F223F531E5007F9D81 /* Man.m */; };
+		59AE89F623F531F7007F9D81 /* Women.m in Sources */ = {isa = PBXBuildFile; fileRef = 59AE89F523F531F7007F9D81 /* Women.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +56,10 @@
 		59AE89DF23F52D67007F9D81 /* YXLTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YXLTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		59AE89E323F52D67007F9D81 /* YXLTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YXLTestUITests.m; sourceTree = "<group>"; };
 		59AE89E523F52D67007F9D81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		59AE89F123F531E5007F9D81 /* Man.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Man.h; sourceTree = "<group>"; };
+		59AE89F223F531E5007F9D81 /* Man.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Man.m; sourceTree = "<group>"; };
+		59AE89F423F531F7007F9D81 /* Women.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Women.h; sourceTree = "<group>"; };
+		59AE89F523F531F7007F9D81 /* Women.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Women.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +116,10 @@
 				59AE89C023F52D62007F9D81 /* SceneDelegate.m */,
 				59AE89C223F52D62007F9D81 /* ViewController.h */,
 				59AE89C323F52D62007F9D81 /* ViewController.m */,
+				59AE89F123F531E5007F9D81 /* Man.h */,
+				59AE89F223F531E5007F9D81 /* Man.m */,
+				59AE89F423F531F7007F9D81 /* Women.h */,
+				59AE89F523F531F7007F9D81 /* Women.m */,
 				59AE89C523F52D62007F9D81 /* Main.storyboard */,
 				59AE89C823F52D67007F9D81 /* Assets.xcassets */,
 				59AE89CA23F52D67007F9D81 /* LaunchScreen.storyboard */,
@@ -267,8 +277,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				59AE89F623F531F7007F9D81 /* Women.m in Sources */,
 				59AE89C423F52D62007F9D81 /* ViewController.m in Sources */,
 				59AE89BE23F52D62007F9D81 /* AppDelegate.m in Sources */,
+				59AE89F323F531E5007F9D81 /* Man.m in Sources */,
 				59AE89CF23F52D67007F9D81 /* main.m in Sources */,
 				59AE89C123F52D62007F9D81 /* SceneDelegate.m in Sources */,
 			);
