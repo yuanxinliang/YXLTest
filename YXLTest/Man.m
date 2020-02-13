@@ -14,4 +14,8 @@
     NSLog(@"工作");
 }
 
+- (void)play {
+    NSLog(@"玩游戏...");
+}
+
 @end
