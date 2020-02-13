@@ -18,6 +18,7 @@
 		59AE89E423F52D67007F9D81 /* YXLTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 59AE89E323F52D67007F9D81 /* YXLTestUITests.m */; };
 		59AE89F323F531E5007F9D81 /* Man.m in Sources */ = {isa = PBXBuildFile; fileRef = 59AE89F223F531E5007F9D81 /* Man.m */; };
 		59AE89F623F531F7007F9D81 /* Women.m in Sources */ = {isa = PBXBuildFile; fileRef = 59AE89F523F531F7007F9D81 /* Women.m */; };
+		59AE89FC23F5A2CD007F9D81 /* Mouse.m in Sources */ = {isa = PBXBuildFile; fileRef = 59AE89FB23F5A2CD007F9D81 /* Mouse.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,8 @@
 		59AE89F223F531E5007F9D81 /* Man.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Man.m; sourceTree = "<group>"; };
 		59AE89F423F531F7007F9D81 /* Women.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Women.h; sourceTree = "<group>"; };
 		59AE89F523F531F7007F9D81 /* Women.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Women.m; sourceTree = "<group>"; };
+		59AE89FA23F5A2CD007F9D81 /* Mouse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Mouse.h; sourceTree = "<group>"; };
+		59AE89FB23F5A2CD007F9D81 /* Mouse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Mouse.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +123,8 @@
 				59AE89F223F531E5007F9D81 /* Man.m */,
 				59AE89F423F531F7007F9D81 /* Women.h */,
 				59AE89F523F531F7007F9D81 /* Women.m */,
+				59AE89FA23F5A2CD007F9D81 /* Mouse.h */,
+				59AE89FB23F5A2CD007F9D81 /* Mouse.m */,
 				59AE89C523F52D62007F9D81 /* Main.storyboard */,
 				59AE89C823F52D67007F9D81 /* Assets.xcassets */,
 				59AE89CA23F52D67007F9D81 /* LaunchScreen.storyboard */,
@@ -278,6 +283,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				59AE89F623F531F7007F9D81 /* Women.m in Sources */,
+				59AE89FC23F5A2CD007F9D81 /* Mouse.m in Sources */,
 				59AE89C423F52D62007F9D81 /* ViewController.m in Sources */,
 				59AE89BE23F52D62007F9D81 /* AppDelegate.m in Sources */,
 				59AE89F323F531E5007F9D81 /* Man.m in Sources */,
