@@ -14,4 +14,8 @@
     NSLog(@"购物");
 }
 
+- (void)eat {
+    NSLog(@"吃吃吃。。。");
+}
+
 @end
