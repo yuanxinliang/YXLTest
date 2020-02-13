@@ -10,4 +10,8 @@
 
 @implementation Man
 
+- (void)work {
+    NSLog(@"工作");
+}
+
 @end

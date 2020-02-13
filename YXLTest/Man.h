@@ -12,6 +12,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface Man : NSObject
 
+- (void)work;
+
 @end
 
 NS_ASSUME_NONNULL_END
