@@ -12,6 +12,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface Women : NSObject
 
+- (void)shopping;
+
 @end
 
 NS_ASSUME_NONNULL_END

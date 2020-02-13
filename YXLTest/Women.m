@@ -10,4 +10,8 @@
 
 @implementation Women
 
+- (void)shopping {
+    NSLog(@"购物");
+}
+
 @end
