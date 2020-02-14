@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		597D912A23F668760097244E /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 597D912923F668760097244E /* Person.m */; };
 		59AE89BE23F52D62007F9D81 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 59AE89BD23F52D62007F9D81 /* AppDelegate.m */; };
 		59AE89C123F52D62007F9D81 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 59AE89C023F52D62007F9D81 /* SceneDelegate.m */; };
 		59AE89C423F52D62007F9D81 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59AE89C323F52D62007F9D81 /* ViewController.m */; };
@@ -39,6 +40,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		597D912823F668760097244E /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		597D912923F668760097244E /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 		59AE89B923F52D62007F9D81 /* YXLTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YXLTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		59AE89BC23F52D62007F9D81 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		59AE89BD23F52D62007F9D81 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -125,6 +128,8 @@
 				59AE89F523F531F7007F9D81 /* Women.m */,
 				59AE89FA23F5A2CD007F9D81 /* Mouse.h */,
 				59AE89FB23F5A2CD007F9D81 /* Mouse.m */,
+				597D912823F668760097244E /* Person.h */,
+				597D912923F668760097244E /* Person.m */,
 				59AE89C523F52D62007F9D81 /* Main.storyboard */,
 				59AE89C823F52D67007F9D81 /* Assets.xcassets */,
 				59AE89CA23F52D67007F9D81 /* LaunchScreen.storyboard */,
@@ -284,6 +289,7 @@
 			files = (
 				59AE89F623F531F7007F9D81 /* Women.m in Sources */,
 				59AE89FC23F5A2CD007F9D81 /* Mouse.m in Sources */,
+				597D912A23F668760097244E /* Person.m in Sources */,
 				59AE89C423F52D62007F9D81 /* ViewController.m in Sources */,
 				59AE89BE23F52D62007F9D81 /* AppDelegate.m in Sources */,
 				59AE89F323F531E5007F9D81 /* Man.m in Sources */,
