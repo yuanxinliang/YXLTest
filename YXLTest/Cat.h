@@ -16,6 +16,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)eatWithFood:(NSString *)food;
 
+- (void)sleep;
+
 @end
 
 NS_ASSUME_NONNULL_END

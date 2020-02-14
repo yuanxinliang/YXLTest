@@ -18,4 +18,8 @@
     NSLog(@"%@", food);
 }
 
+- (void)sleep {
+    NSLog(@"sleep..");
+}
+
 @end
