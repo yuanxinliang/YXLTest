@@ -10,4 +10,8 @@
 
 @implementation Cat
 
+- (void)eat {
+    NSLog(@"eat...");
+}
+
 @end
