@@ -14,4 +14,8 @@
     NSLog(@"eat...");
 }
 
+- (void)eatWithFood:(NSString *)food {
+    NSLog(@"%@", food);
+}
+
 @end
