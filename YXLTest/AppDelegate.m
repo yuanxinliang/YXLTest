@@ -21,9 +21,13 @@
 }
 
 - (void)test1 {
+    NSLog(@"909");
     NSLog(@"1");
+    NSLog(@"222");
     NSLog(@"20");
+    NSLog(@"111");
     NSLog(@"3");
+    NSLog(@"404")
 }
 
 
