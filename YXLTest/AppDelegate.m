@@ -24,6 +24,10 @@
     NSLog(@"commit1");
 };
 
+- (void)t2 {
+    NSLog(@"commit2");
+}
+
 
 #pragma mark - UISceneSession lifecycle
 
