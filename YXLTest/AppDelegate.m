@@ -20,6 +20,10 @@
     return YES;
 }
 
+- (void)t1 {
+    NSLog(@"commit1");
+};
+
 
 #pragma mark - UISceneSession lifecycle
 
