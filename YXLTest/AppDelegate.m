@@ -22,7 +22,7 @@
 
 - (void)test1 {
     NSLog(@"1");
-    NSLog(@"2");
+    NSLog(@"20");
     NSLog(@"3");
 }
 
