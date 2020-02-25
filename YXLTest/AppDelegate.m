@@ -34,6 +34,10 @@
     NSLog(@"提交 002");
 }
 
+- (void)test03 {
+    NSLog(@"提交 003");
+}
+
 
 #pragma mark - UISceneSession lifecycle
 
