@@ -27,7 +27,11 @@
     NSLog(@"20");
     NSLog(@"456");
     NSLog(@"3");
-    NSLog(@"404")
+    NSLog(@"404");
+}
+
+- (void)test02 {
+    NSLog(@"提交 002");
 }
 
 
