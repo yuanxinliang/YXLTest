@@ -42,6 +42,8 @@
 
 - (void)b {}
 
+- (void)c {}
+
 #pragma mark - UISceneSession lifecycle
 
 
